@@ -6,3 +6,8 @@
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@x-recon/fn/-/fn-2.0.0.tgz#371b8b1826a2ab3b2f40d53e07c0fe05b350d122"
   integrity sha512-//gDt4ua+oUX1X0JkFcdhTdBM4nhrtxIWV7CD4FiegqOk9XGWWOwU2fUBy+pB3XoBrK19a5jIfuva6fWruQFZg==
+
+dynameh@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/dynameh/-/dynameh-4.4.0.tgz#4f2495dbf5ff1e2c36c985d7cbe024f95f432bb8"
+  integrity sha512-CSc80lRgPj09mFcv9ahHQSUbWFJg/wegUVthzp3voVOjJLKSchYbTfkPgdQHz5jxKD98HG/tyiSRAL9Xt7Gwwg==
