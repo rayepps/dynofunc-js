@@ -1,0 +1,9 @@
+{
+  "name": "dynofunc-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@x-recon/fn": "^2.0.0"
+  }
+}
